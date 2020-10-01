@@ -1,5 +1,5 @@
-:heart: coffee
+* coffee
 
-:heart: my dog
+* my dog
 
-:heart: business analytics
+* business analytics
