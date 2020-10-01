@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+:heart: coffee
+
+:heart: my dog
+
+:heart: business analytics
